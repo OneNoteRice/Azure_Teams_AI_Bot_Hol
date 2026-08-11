@@ -11,6 +11,8 @@ Portal.azure.com 접속 화면
 
 
 1. 리소스 그룹 생성
+
+상단 검색에 "리소스 그룹" 검색 후 선
 <img width="1256" height="653" alt="image" src="https://github.com/user-attachments/assets/2bb1e163-2bba-437c-9965-db550c2e4473" />
 
 만들기 선택
@@ -26,3 +28,39 @@ Portal.azure.com 접속 화면
 
 리소스 그룹 생성 확인
 <img width="1452" height="664" alt="image" src="https://github.com/user-attachments/assets/711f7a8d-6417-49e5-b3e9-9117ef8a917a" />
+
+
+2. 가상 네트워크 생성
+
+상단 검색에 "가상 네트워크" 검색 후 선택
+<img width="1258" height="721" alt="image" src="https://github.com/user-attachments/assets/527dce8e-1882-44f0-a3fb-cb491fbf77df" />
+
+"만들기" 선택
+
+<img width="1253" height="718" alt="image" src="https://github.com/user-attachments/assets/f0eca14b-8a41-45c7-9cd3-4eee36f89026" />
+
+구독 및 지역 선택 후 
+가상 네트워크 이름 : Azure-Teams-AI-Vnet
+입력 후 다음 선택
+<img width="1052" height="784" alt="image" src="https://github.com/user-attachments/assets/65967ff6-f33c-48ca-b56c-430a93c9fceb" />
+
+보안 탭에서는 기본값 상태에서 다음 선택
+<img width="1054" height="904" alt="image" src="https://github.com/user-attachments/assets/a5bbcb28-0b15-49dc-ab11-20bbc8878f6f" />
+
+주소 공간 탭에서는 서브넷 연필모양 선택 후 우측 부분에서 서브넷 이름 변경 후 크기는 /24 유지 및 저장
+<img width="1927" height="987" alt="image" src="https://github.com/user-attachments/assets/89a055c6-f176-4aec-a470-d65e55efb1c2" />
+
+아래 내용과 동일한지 화인 후 검토+만들기
+<img width="1046" height="965" alt="image" src="https://github.com/user-attachments/assets/6e44b95b-939e-4dbf-9c24-d3a08d523bc4" />
+
+검토 페이지에서 문제가 없는지 확인 후 만들기 진
+<img width="1220" height="963" alt="image" src="https://github.com/user-attachments/assets/cc4c54dc-59fb-4a68-864d-db49fdb80f55" />
+
+가상 네트워크 생성 확인
+<img width="1914" height="672" alt="image" src="https://github.com/user-attachments/assets/cb7feaa2-0710-4568-92d6-42690e6a51ed" />
+
+
+3. App services 생성
+
+상단 검색에 "app services" 검색 후 선택
+<img width="1428" height="724" alt="image" src="https://github.com/user-attachments/assets/3d54d5b7-9179-452e-b690-7172ae80851a" />
