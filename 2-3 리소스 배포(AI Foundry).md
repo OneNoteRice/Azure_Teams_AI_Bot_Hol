@@ -1,1 +1,67 @@
 
+상단 검색창에 foundry 또는 microsoft foundry 검색 후 선택
+
+<img width="1460" height="825" alt="image" src="https://github.com/user-attachments/assets/23178f76-1db0-4fce-988b-eb2ea22f63ae" />
+
+<br>
+<br>
+
+왼쪽 목록에서
+Foundry와 함께 사용 선택 후 아래 Foundry 선택
+만들기 선택
+
+<img width="1464" height="718" alt="image" src="https://github.com/user-attachments/assets/7eaf5521-9ecd-4fe4-aed6-36c911f7e651" />
+<br>
+<br>
+
+기본 탭에서
+
+리소스 그룹 선택
+이름 : azure-teams-foundry 또는 자유로운 이름 지정
+
+지역 : Korea Central
+
+첫 번째 프로젝트
+
+Default project name : teams-project 또는 기본값 이름, 자유로운 이름 사용
+
+
+<img width="1018" height="962" alt="image" src="https://github.com/user-attachments/assets/9dba0d75-a9dd-48b2-a4c3-ba9c1ff65e26" />
+
+
+
+<br>
+<br>
+
+스토리지 탭 - 기본 값
+
+<img width="775" height="944" alt="image" src="https://github.com/user-attachments/assets/6fcfcb08-bdc3-40ef-8377-460cf3b15346" />
+<br>
+<br>
+Inbound Networking - 기본 값
+
+<img width="737" height="430" alt="image" src="https://github.com/user-attachments/assets/1bb32afe-1e54-4530-8db2-18074caa051c" />
+<br>
+<br>
+Outbound Networking - 기본 값
+
+<img width="752" height="447" alt="image" src="https://github.com/user-attachments/assets/a87d81a1-7fef-4133-9d42-634d2ddef103" />
+<br>
+<br>
+Identity - 기본 값
+
+<img width="723" height="446" alt="image" src="https://github.com/user-attachments/assets/04b12638-f6dc-46fb-a787-c9b284e5e96e" />
+
+<br>
+<br>
+암호화 - 기본 값
+
+<img width="732" height="410" alt="image" src="https://github.com/user-attachments/assets/18abb255-027f-477b-bcab-ffa722911487" />
+
+<br>
+<br>
+
+검토 + 만들기에서 확인 후 만들기 선택
+
+<img width="889" height="812" alt="image" src="https://github.com/user-attachments/assets/7ceefb36-4dab-48e9-a3a8-d51b154047fd" />
+
