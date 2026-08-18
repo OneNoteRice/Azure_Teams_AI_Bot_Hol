@@ -63,5 +63,6 @@
 <br>
 검토 + 만들기에서 확인 후 만들기
 <br>
-<img width="717" height="1169" alt="image" src="https://github.com/user-attachments/assets/eac35f74-3474-488e-bf78-027c7644449b" />
+<img width="717" height="1169" alt="image" src="https://github.com/user-attachments/assets/f73c9f26-b6ed-4641-a5ec-61530cd7ca73" />
+
 
