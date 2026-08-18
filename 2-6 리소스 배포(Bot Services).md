@@ -1,1 +1,37 @@
 
+상단 검색에 bot services 검색 후 선택
+<br>
+<img width="1283" height="842" alt="image" src="https://github.com/user-attachments/assets/73628a6e-81a6-483a-bf93-09a18524082b" />
+<br>
+<br>
+
+만들기 선택
+<br>
+<img width="1460" height="802" alt="image" src="https://github.com/user-attachments/assets/beaa9fc7-8672-4406-a248-01acb4bf4d91" />
+<br>
+<br>
+
+Azure Bot 선택
+<br>
+<img width="735" height="1167" alt="image" src="https://github.com/user-attachments/assets/0d90057d-9278-4732-8736-d36b0b581a06" />
+<br>
+<img width="1031" height="1100" alt="image" src="https://github.com/user-attachments/assets/f8ed33e9-2370-4da8-94b6-a0ed2206495b" />
+
+<br>
+
+기본 탭
+
+Bot handle : Azure-teams-ai-bot-services (중복으로 표시 되는 경우 숫자등 추가)
+
+리소스 그룹 : 선택
+
+Pricing tier : Free 
+
+
+<img width="1484" height="1169" alt="image" src="https://github.com/user-attachments/assets/7572fccd-9b08-425c-97cb-c48f43aac246" />
+<br>
+<br>
+
+검토 + 만들기에서 만들기 진행 
+<br>
+<img width="630" height="823" alt="image" src="https://github.com/user-attachments/assets/f07c4e60-3930-42ef-bf97-1d5c9f7cb9fb" />
