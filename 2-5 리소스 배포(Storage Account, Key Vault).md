@@ -1,1 +1,67 @@
+상단 검색에 스토리지 계정 검색 후 스토리지 계정 선택
+<br>
+<img width="1280" height="877" alt="image" src="https://github.com/user-attachments/assets/e397fa32-f848-4fb0-8c2f-20165034b627" />
+
+<br>
+<br>
+
+만들기 선택
+<br>
+<img width="1451" height="744" alt="image" src="https://github.com/user-attachments/assets/ad31b5c8-7c51-4d1e-9d31-bd6302a0a95b" />
+
+<br>
+<br>
+
+기본 탭
+
+리소스 그룹 : 선택
+
+스토리지 계정 이름 : 소문자+숫자만으로 다른 사용자와 중복이 아닌 이름으로 생성 
+예)teamsaistorage001~100등 
+
+지역 : Korea Central
+
+기본 서비스 : Azure Blob Storage 또는 Azure Data Lake Storage
+
+성능 : 표준
+
+중복도 : LRS
+<br>
+<img width="814" height="860" alt="image" src="https://github.com/user-attachments/assets/364f8ec3-6964-42bc-99b7-e1d35292a8db" />
+
+<br>
+<br>
+고급 탭 
+
+계층 구조 네임스페이스 사용 체크
+<br>
+<img width="843" height="882" alt="image" src="https://github.com/user-attachments/assets/687b5cb1-9987-45b6-a7be-ad2e0e4835c9" />
+
+<br>
+<br>
+
+네트워킹 탭 - 기본 값
+<br>
+<img width="860" height="1110" alt="image" src="https://github.com/user-attachments/assets/e4d15026-6258-4e92-939a-3e52303baf51" />
+<br>
+<br>
+
+데이터 보호 탭 - 기본 값
+<br>
+<img width="733" height="1094" alt="image" src="https://github.com/user-attachments/assets/d6d1e95b-9d1d-4956-be05-f80ca14b7c63" />
+<br>
+<br>
+보안 탭 - 기본 값
+<br>
+<img width="806" height="799" alt="image" src="https://github.com/user-attachments/assets/1ef0c58f-58f6-41e1-a7b9-1637c40a9370" />
+<br>
+<br>
+암호화 탭 - 기본 값
+<br>
+<img width="620" height="549" alt="image" src="https://github.com/user-attachments/assets/94033325-44e4-431f-b709-291b25bd75d9" />
+<br>
+<br>
+검토 + 만들기에서 확인 후 만들기
+<br>
+<img width="717" height="1169" alt="image" src="https://github.com/user-attachments/assets/eac35f74-3474-488e-bf78-027c7644449b" />
 
