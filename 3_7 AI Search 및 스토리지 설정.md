@@ -24,9 +24,9 @@
 - [x] `🟢 AI Search 가격 계층을 Basic으로 하는 경우 약 $75 `
 - [x] `🟢 Basic으로 하는 경우 OpenAI와 프라이빗 공유 사용 가능으로 설정이 간단해지지만 한달 이후까지 사용하려면 무료버전으로 설정 필요`
 
-```
+```json
 {
-  "name": "knowledgesource-1787898999022-index",
+  "name": "사용할 인덱스 이름",
   "fields": [
     {
       "name": "id",
