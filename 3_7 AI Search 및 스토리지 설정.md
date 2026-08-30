@@ -78,3 +78,6 @@
 
 <img width="966" height="658" alt="image" src="https://github.com/user-attachments/assets/8034d808-cc76-40ba-b85c-95af35bec932" />
 
+
+- [x] `🟢 실제 PDF 파일 1개를 올렸지만 문수 수는 3개료 표시`
+<img width="1515" height="536" alt="image" src="https://github.com/user-attachments/assets/30213cc4-fcbc-49ba-bbda-458223d1206a" />
