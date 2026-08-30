@@ -80,4 +80,10 @@
 
 
 - [x] `🟢 실제 PDF 파일 1개를 올렸지만 문수 수는 3개료 표시`
+
 <img width="1515" height="536" alt="image" src="https://github.com/user-attachments/assets/30213cc4-fcbc-49ba-bbda-458223d1206a" />
+
+
+
+- [x] `🟢 ingest.py 코드 안에 스토리지 안에 있는 파일을 AI Search 관리 ID를 통해 대신 인덱스, 인덱서 처리 요청`
+- [x] `🟢 AI Search 무료 기능으로는 OpenAI와 프라이빗 공유 불가로 임베딩 AI가 AI Search와 연결된 스토리지를 확인 불가`
